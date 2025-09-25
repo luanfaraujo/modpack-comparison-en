@@ -7,7 +7,7 @@ _Se preferir a versão em Português deste projeto, [clique aqui](https://github
 
 ## Overview
 
-This project demonstrates how structured data analysis can support decision-making when comparing multiple alternatives with overlapping features. The dataset consists of four distinct software feature bundles (sourced from JSON via an API). The goal was to determine how the bundles differ in content, where they overlap, and which option best fits the needs of the end users.
+This project demonstrates how structured data analysis can support decision-making when comparing multiple alternatives with overlapping features. The dataset consists of six distinct software feature bundles (sourced from JSON via an API). The goal was to determine how the bundles differ in content, where they overlap, and which option best fits the needs of the end users.
 
 Although the dataset here comes from a **game modpack API**, the process mirrors real-world business scenarios such as comparing SaaS subscription tiers, vendor offerings, or product bundles.
 
