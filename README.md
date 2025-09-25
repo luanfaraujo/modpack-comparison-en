@@ -34,7 +34,7 @@ Although the dataset here comes from a **game modpack API**, the process mirrors
 
 - Cleaned and standardized the raw inputs.
 - Retained only relevant attributes (id, name, description, URL).
-- Combined all four bundles into a masterlist, with an additional column identifying the originating bundle.
+- Combined all bundles into a masterlist, with an additional column identifying the originating bundle.
 
 3. Feature Engineering
 
